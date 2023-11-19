@@ -1,4 +1,4 @@
-# Offizielles Template fuer die Numerik Programmieraufgaben)
+# Offizielles Template fuer die Numerik Programmieraufgaben
 
 Bitte benutzen sie dieses Template.
 Wenn sie fuer PA1 bereits eins verwendet hatten, dann muessen sie dieses
