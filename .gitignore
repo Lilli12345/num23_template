@@ -1,6 +1,3 @@
-!.gitignore
-!README.md
-
 pa2/*
 !pa2/QRzer.m
 !pa2/QRzer_loesen.m
