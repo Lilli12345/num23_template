@@ -1,5 +1,5 @@
 # Programmieraufgabe 1
 
-Nachname 1
-Nachname 2
+Brodbeck
+Bauer
 Nachname 3
